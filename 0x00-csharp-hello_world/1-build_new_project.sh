@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-dotnet build 1-new_project
+dotnet build -o 1-new_project
