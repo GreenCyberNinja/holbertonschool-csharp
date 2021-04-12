@@ -1,0 +1,11 @@
+D:\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp2.1\100-hello_error.deps.json
+D:\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp2.1\100-hello_error.runtimeconfig.json
+D:\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp2.1\100-hello_error.runtimeconfig.dev.json
+D:\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp2.1\100-hello_error.dll
+D:\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp2.1\100-hello_error.pdb
+D:\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp2.1\100-hello_error.csprojAssemblyReference.cache
+D:\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp2.1\100-hello_error.csproj.CoreCompileInputs.cache
+D:\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp2.1\100-hello_error.AssemblyInfoInputs.cache
+D:\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp2.1\100-hello_error.AssemblyInfo.cs
+D:\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp2.1\100-hello_error.dll
+D:\holbertonschool-csharp\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp2.1\100-hello_error.pdb
