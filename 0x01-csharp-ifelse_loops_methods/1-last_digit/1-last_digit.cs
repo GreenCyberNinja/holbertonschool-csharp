@@ -15,7 +15,7 @@ class Program
             Console.WriteLine($" {lst} and is less than 6 and not 0");
         }
         if (lst == 0){
-            Console.WriteLine($" {lst} and is zero");
+            Console.WriteLine($" {lst} and is 0");
         }
     }
 }
