@@ -14,7 +14,9 @@ class Array
         for (i = 0; i < size; i++)
         {
             ans[i] = i;
-            Console.Write($"{ans[i]} ");
+            Console.Write($"{ans[i]}");
+            if (i != size - 1)
+                Console.WriteLine(" ");
         }
         Console.WriteLine("");
         return ans;
