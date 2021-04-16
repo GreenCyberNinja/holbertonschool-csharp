@@ -16,7 +16,7 @@ class Array
             ans[i] = i;
             Console.Write($"{ans[i]}");
             if (i != size - 1)
-                Console.WriteLine(" ");
+                Console.Write(" ");
             else
                 Console.Write("\n");
         }
