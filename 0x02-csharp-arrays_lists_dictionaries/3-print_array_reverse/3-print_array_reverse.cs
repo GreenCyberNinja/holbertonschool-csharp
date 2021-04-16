@@ -10,12 +10,14 @@ class Array
             int size = array.Length;
             for (i = size - 1; i >= 0; i--)
             {
-                Console.Write($"{array[i]} ");
+                Console.Write(array[i]);
                 if (i > 0)
                     Console.Write(" ");
                 else
                     Console.Write("\n");
             }
         }
+        else
+            Console.Write("\n");
     }
 }
