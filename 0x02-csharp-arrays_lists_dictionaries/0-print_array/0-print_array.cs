@@ -17,8 +17,11 @@ class Array
             Console.Write($"{ans[i]}");
             if (i != size - 1)
                 Console.WriteLine(" ");
+            else
+                Console.Write("\n");
         }
-        Console.WriteLine("");
+        if (size == 0)
+            Console.Write("\n");
         return ans;
     }
 }
