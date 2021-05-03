@@ -24,6 +24,8 @@ class List
             {
                 Console.WriteLine("Out of range");
             }
+            finally
+            {}
         }
         return anslst;
     }
