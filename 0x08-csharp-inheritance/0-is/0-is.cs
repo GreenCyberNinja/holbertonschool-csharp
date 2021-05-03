@@ -1,11 +1,11 @@
 ﻿using System;
 
+///<summary>class obj</summary>
 class Obj
 {
-    ///<summary>class obj</summary>
+    ///<summary>checks if obj is type int</summary>
     public static bool IsOfTypeInt(object obj)
     {
-        ///<summary>checks if obj is type int </summary>
         return (obj is int);
     }
 }
