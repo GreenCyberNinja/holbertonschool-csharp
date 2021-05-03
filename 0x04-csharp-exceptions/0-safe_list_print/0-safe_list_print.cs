@@ -15,6 +15,6 @@ class List
             }
             catch
         }
-        return j;
+        return num;
     }
 }
