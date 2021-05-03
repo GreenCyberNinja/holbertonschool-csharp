@@ -14,6 +14,7 @@ class List
                 num++;
             }
             catch
+            {}
         }
         return num;
     }
