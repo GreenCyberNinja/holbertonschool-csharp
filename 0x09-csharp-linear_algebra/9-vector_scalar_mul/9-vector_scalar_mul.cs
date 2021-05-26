@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 
+///<summary>does vector math</summary>
 class VectorMath
 {
+    ///<summary>multiplies vector by scalar</summary>
     public static double[] Multiply(double[] vector, double scalar)
     {
         List<double> anslist = new List<double>();
