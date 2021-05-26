@@ -7,7 +7,7 @@ class VectorMath
     ///<summary>dot product</summary>
     public static double DotProduct(double[] vector1, double[] vector2)
     {
-        double ans;
+        double ans = 0;
         if (vector1.Length < 2 || vector1.Length > 3)
         {
             ans = -1;
@@ -25,7 +25,7 @@ class VectorMath
         }
         for (int i = 0; i < vector1.Length;i++)
         {
-            ans += vector1 * vector2;           
+            ans += vector1[i] * vector2[i];           
         }
         return ans;
     }
