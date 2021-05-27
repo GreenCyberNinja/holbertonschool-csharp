@@ -21,6 +21,8 @@ class MatrixMath
             ans = new double[3,3];
         }
 
+        if (matrix.GetLength(0) < 2 || matrix.GetLength(0) > 3)
+            return wrng;
         if (matrix.Length < 4 || matrix.Length > 9)
             return wrng;
         for (int i=0; i < chk; i++)
