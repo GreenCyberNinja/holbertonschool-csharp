@@ -1,0 +1,11 @@
+D:\holbertonschool-csharp\0x0A-csharp-generics\4-print\bin\Debug\netcoreapp2.1\4-print.deps.json
+D:\holbertonschool-csharp\0x0A-csharp-generics\4-print\bin\Debug\netcoreapp2.1\4-print.runtimeconfig.json
+D:\holbertonschool-csharp\0x0A-csharp-generics\4-print\bin\Debug\netcoreapp2.1\4-print.runtimeconfig.dev.json
+D:\holbertonschool-csharp\0x0A-csharp-generics\4-print\bin\Debug\netcoreapp2.1\4-print.dll
+D:\holbertonschool-csharp\0x0A-csharp-generics\4-print\bin\Debug\netcoreapp2.1\4-print.pdb
+D:\holbertonschool-csharp\0x0A-csharp-generics\4-print\obj\Debug\netcoreapp2.1\4-print.csprojAssemblyReference.cache
+D:\holbertonschool-csharp\0x0A-csharp-generics\4-print\obj\Debug\netcoreapp2.1\4-print.csproj.CoreCompileInputs.cache
+D:\holbertonschool-csharp\0x0A-csharp-generics\4-print\obj\Debug\netcoreapp2.1\4-print.AssemblyInfoInputs.cache
+D:\holbertonschool-csharp\0x0A-csharp-generics\4-print\obj\Debug\netcoreapp2.1\4-print.AssemblyInfo.cs
+D:\holbertonschool-csharp\0x0A-csharp-generics\4-print\obj\Debug\netcoreapp2.1\4-print.dll
+D:\holbertonschool-csharp\0x0A-csharp-generics\4-print\obj\Debug\netcoreapp2.1\4-print.pdb

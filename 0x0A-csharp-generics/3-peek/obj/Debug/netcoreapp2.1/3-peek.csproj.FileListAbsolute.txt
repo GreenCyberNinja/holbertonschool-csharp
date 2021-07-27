@@ -1,0 +1,11 @@
+D:\holbertonschool-csharp\0x0A-csharp-generics\3-peek\obj\Debug\netcoreapp2.1\3-peek.csprojAssemblyReference.cache
+D:\holbertonschool-csharp\0x0A-csharp-generics\3-peek\obj\Debug\netcoreapp2.1\3-peek.csproj.CoreCompileInputs.cache
+D:\holbertonschool-csharp\0x0A-csharp-generics\3-peek\obj\Debug\netcoreapp2.1\3-peek.AssemblyInfoInputs.cache
+D:\holbertonschool-csharp\0x0A-csharp-generics\3-peek\obj\Debug\netcoreapp2.1\3-peek.AssemblyInfo.cs
+D:\holbertonschool-csharp\0x0A-csharp-generics\3-peek\bin\Debug\netcoreapp2.1\3-peek.deps.json
+D:\holbertonschool-csharp\0x0A-csharp-generics\3-peek\bin\Debug\netcoreapp2.1\3-peek.runtimeconfig.json
+D:\holbertonschool-csharp\0x0A-csharp-generics\3-peek\bin\Debug\netcoreapp2.1\3-peek.runtimeconfig.dev.json
+D:\holbertonschool-csharp\0x0A-csharp-generics\3-peek\bin\Debug\netcoreapp2.1\3-peek.dll
+D:\holbertonschool-csharp\0x0A-csharp-generics\3-peek\bin\Debug\netcoreapp2.1\3-peek.pdb
+D:\holbertonschool-csharp\0x0A-csharp-generics\3-peek\obj\Debug\netcoreapp2.1\3-peek.dll
+D:\holbertonschool-csharp\0x0A-csharp-generics\3-peek\obj\Debug\netcoreapp2.1\3-peek.pdb
