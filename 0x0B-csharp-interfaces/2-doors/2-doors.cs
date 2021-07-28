@@ -6,7 +6,7 @@ class Base
 
     public override string ToString()
     {
-        return ($"{name} is a type {GetType()}");
+        return ($"{name} is a {GetType()}");
     }
 }
 class  Door : Base, IInteracticve
