@@ -1,12 +1,12 @@
 ﻿using System;
 
-class Base
+abstract class Base
 {
     public string name { get; set; }
 
     public override string ToString()
     {
-        return ($"{name} is a type {GetType()}");
+        return ($"{name} is a {GetType()}");
     }
 }
 class  Door : Base, IInteracticve
@@ -17,7 +17,7 @@ class  Door : Base, IInteracticve
     }
     public Door(string Name = "Door")
     {
-        name = Name;
+        this.name = Name;
     }
 }
 class Decoration : Base, IInteracticve, IBreakable
