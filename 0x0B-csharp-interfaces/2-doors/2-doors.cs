@@ -13,7 +13,7 @@ class  Door : Base, IInteracticve
 {
     public void Interact()
     {
-        Console.WriteLine($"You try to open the {name}. its locked");
+        Console.WriteLine($"You try to open the {name}. It's locked.");
     }
     public Door(string Name = "Door")
     {
