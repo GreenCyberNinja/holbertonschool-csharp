@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-modified_behavior</name>
+    </assembly>
+    <members>
+        <member name="T:Modifier">
+            <summary>Modifiers for nokenmon</summary>
+        </member>
+        <member name="F:Modifier.Weak">
+            <summary>it be weak</summary>
+        </member>
+        <member name="F:Modifier.Base">
+            <summary>it be BASED</summary>
+        </member>
+        <member name="F:Modifier.Strong">
+            <summary>it strong like man who fights bear in wood</summary>
+        </member>
+        <member name="T:CalculateModifier">
+            <summary> it calculate modifiers</summary>
+        </member>
+    </members>
+</doc>
