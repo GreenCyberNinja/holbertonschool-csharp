@@ -58,12 +58,12 @@ class Player
         float temph = this.hp;
 		if (heal > 0)
 		{
-			Console.WriteLine($"{this.name} heals {heal} hp!");
+			Console.WriteLine($"{this.name} heals {heal} HP!");
 			temph += heal;
 		}
 		else
 		{
-			Console.WriteLine($"{this.name} heals 0 hp!");
+			Console.WriteLine($"{this.name} heals 0 HP!");
 		}
         ValidateHP(temph);
     }
